@@ -7,10 +7,14 @@ perque tots els assistents queden aturats en wait()
 caso 1 
 es bloqueria més rapid
 ![alt text](image.png)
+resultat 
+![alt text](image-2.png)
 
 caso 2
 es bloqueria més lent 
 ![alt text](image-1.png)
+resultat
+![alt text](image-3.png)
 
 3. Perquè creus que fa falta la llista i no valdria només amb una variable sencera de reserves?
 

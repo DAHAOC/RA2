@@ -17,7 +17,7 @@ public class Assistent extends Thread{
     public void run() {
         try {
             while(true) {
-               
+                
                 if(random.nextBoolean()) {
                     esdeveniment.ferReserva(this);
                 } else {
